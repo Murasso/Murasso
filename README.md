@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, Ruby on Rails, PHP or anything [here](https://github.com/Murasso/Murasso/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Python is older than Java**
 
  </div>
  
