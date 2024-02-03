@@ -44,14 +44,11 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
 ![](https://raw.githubusercontent.com/Murasso/Mursso/output/github-contribution-grid-snake.svg)
 
   
   <br/><br/><br/>
-</div>
+
 
 <hr/>
 
